@@ -9,7 +9,7 @@ class HiveMind:
     CHANNEL = "sn0wyowl"
     RAIDCHANNEL = ""
 
-    oauth_token = "oauth:7y5gjp7o9rjs3oexoz1zbjznjoxf9y"
+    oauth_token = ""
     commands_list = []
     commands_queue = []
     admin_users = []
